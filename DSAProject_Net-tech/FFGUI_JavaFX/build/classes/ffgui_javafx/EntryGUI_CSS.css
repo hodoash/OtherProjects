@@ -1,0 +1,85 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 1, 2018, 7:32:54 PM
+    Author     : Albert Kyei
+*/
+
+.root{
+    
+    -fx-background-color: #383c4a;
+    
+    -fx-background-size: cover;
+    
+}
+
+#layer{
+    
+    -fx-background-insets: 200 300 200 300;
+    
+    -fx-background-color: #404552;
+    
+    -fx-background-radius: 10;
+    
+    -fx-effect: dropshadow(three-pass-box, #7c818c, 10, 0, 0, 0);
+    
+}
+
+#Htext{
+    
+    -fx-font: 24px Verdana;
+    
+    -fx-fill: white;
+    
+}
+
+#uTextField{
+    
+    -fx-background-image:url('user.png');
+    
+    -fx-background-repeat: no-repeat;
+    
+    -fx-background-position: right center;
+    
+    -fx-font-size: 15;
+    
+    -fx-pref-height: 35px;
+    
+    -fx-pref-width: 150px;
+    
+}
+
+#pTextField{
+    
+    -fx-background-image:url('locked.png');
+    
+    -fx-background-repeat: no-repeat;
+    
+    -fx-background-position: right center;
+    
+    -fx-font-size: 15;
+    
+    -fx-pref-height: 35px;
+    
+    -fx-pref-width: 150px;
+    
+}
+
+#signBtn{
+    
+    -fx-background-color: #2a2e33;
+    
+    -fx-text-weight: bold;
+    
+    -fx-font-size: 14;
+    
+    -fx-text-fill: white;
+    
+    -fx-pref-height: 28px;
+    
+    -fx-pref-width: 150px;
+    
+}

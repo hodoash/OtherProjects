@@ -1,0 +1,85 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 2, 2018, 6:11:03 PM
+    Author     : Albert Kyei
+*/
+
+.root{
+    
+    -fx-background-color: #383c4a;
+    
+    -fx-background-size: cover;
+    
+}
+
+#layer{
+    
+    -fx-background-insets: 150 300 150 300;
+    
+    -fx-background-color: #404552;
+    
+    -fx-background-radius: 10;
+    
+    -fx-effect: dropshadow(three-pass-box, #7c818c, 10, 0, 0, 0);
+    
+}
+
+#Htext{
+    
+    -fx-font: 24px Verdana;
+    
+    -fx-fill: white;
+    
+}
+
+#radioBtn{
+    
+    -fx-font: 12px Verdana;
+    
+    -fx-text-fill: white;
+    
+}
+
+#textID{
+   
+    -fx-font: 14px Verdana;
+    
+    -fx-fill: white;
+    
+}
+
+#signBtn{
+    
+    -fx-background-color: #2a2e33;
+    
+    -fx-text-weight: bold;
+    
+    -fx-font-size: 14;
+    
+    -fx-text-fill: white;
+    
+    -fx-pref-height: 28px;
+    
+    -fx-pref-width: 150px;
+    
+}
+
+#signBtn_Unique{
+    
+    -fx-background-color: #2a2e33;
+    
+    -fx-text-weight: bold;
+    
+    -fx-font-size: 14;
+    
+    -fx-text-fill: white;
+    
+    -fx-pref-height: 30px;
+    
+    -fx-pref-width: 180px;
+    
+}

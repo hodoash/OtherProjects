@@ -1,0 +1,4 @@
+Name=Enam Kyei, DOB=2001-02-07, Hostel=Dufie, FavSpot=yolo, Major=CS, YearGroup=Junior, Bio=oloy, Sex=Male, Picture=null, Interest=Music, Username=ekyei, Password=eeeeeeeee, [dummy]
+Name=Anna, DOB=2018-12-05, Hostel=Charlotte, FavSpot=yoyo, Major=MIS, YearGroup=Sophomore, Bio=oyoy, Sex=Female, Picture=null, Interest=Art, Username=anna, Password=aaaaaaaaa, [dummy]
+Name=Theresa, DOB=2001-07-02, Hostel=Dufie, FavSpot=yolo, Major=CS, YearGroup=Junior, Bio=oloy, Sex=Female, Picture=null, Interest=Music, Username=tHeres, Password=ttttttttt, [dummy]
+Name=Enam Kyei, DOB=2001-02-07, Hostel=Dufie, FavSpot=yolo, Major=CS, YearGroup=Junior, Bio=oloy, Sex=Male, Picture=null, Interest=Music, Username=ekyei, Password=eeeeeeeee, [dummy]
